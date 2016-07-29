@@ -7,6 +7,12 @@ div {
 	padding: 5px;
 }
 
+body {
+	font-size: 12;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	color:#333000;
+}
+
 div.all {
 	width: 1000px;
 	margin: auto; /*Centers div*/
@@ -14,13 +20,16 @@ div.all {
 }
 
 div.header {
-	height: 200px;
-	background-color: #ffcccc;
+	height: 100px;
+	background-color: #ffffff;
+	color: #99E64C;
 }
 
 div.navbar {
 	height: 30px;
 	background-color: #99E64C;
+	color:#ffffff;
+}
 
 div.body {
 	padding: 0px !important;
@@ -44,10 +53,11 @@ div.footer {
 	background-color: #ffe6b3;
 }
 
-<<<<<<< HEAD
+
 p.lightgreen {
 	color:#99E64C;
-=======
+}
+
 table.Market{
 	border-style: solid; 
 }
@@ -59,5 +69,4 @@ table.Market{
 body.marketanalysis{
 	background-color:#CCE4E6;
 	font-size:20px;
->>>>>>> origin/master
 }
