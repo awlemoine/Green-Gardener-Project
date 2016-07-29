@@ -74,3 +74,8 @@ body.marketanalysis{
 	font-size:50px;
 	font-color: #0A0A0A;
 }
+
+a.spacedForNavbar {
+	margin-right: 50px;
+	text-decoration: none;
+}
