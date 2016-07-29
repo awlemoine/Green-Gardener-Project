@@ -21,7 +21,6 @@ div.header {
 div.navbar {
 	height: 30px;
 	background-color: #99E64C;
-}
 
 div.body {
 	padding: 0px !important;
@@ -37,9 +36,28 @@ div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
 	background-color: #ccccff;
+	height: 300px;
 }
 
 div.footer {
 	height: 100px;
 	background-color: #ffe6b3;
+}
+
+<<<<<<< HEAD
+p.lightgreen {
+	color:#99E64C;
+=======
+table.Market{
+	border-style: solid; 
+}
+
+table.Market{
+	background-color: #D6AEB9;
+}
+
+body.marketanalysis{
+	background-color:#CCE4E6;
+	font-size:20px;
+>>>>>>> origin/master
 }
