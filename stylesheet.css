@@ -28,6 +28,7 @@ div.header {
 
 div.navbar {
 	height: 30px;
+	width:100% !important;
 	background-color: #99E64C;
 	color:#ffffff;
 
