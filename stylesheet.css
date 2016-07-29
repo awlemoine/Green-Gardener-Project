@@ -49,7 +49,7 @@ div.content {
 div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #ccccff;
+	background-color: #E6FFCC;
 	height: 500px;
 }
 
