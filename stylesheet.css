@@ -21,6 +21,7 @@ div.header {
 div.navbar {
 	height: 30px;
 	background-color: #99E64C;
+}
 
 div.body {
 	padding: 0px !important;
@@ -44,12 +45,10 @@ div.footer {
 	background-color: #ffe6b3;
 }
 
-<<<<<<< HEAD
+
 p.lightgreen {
 	color:#99E64C;
-=======
-table.Market{
-	border-style: solid; 
+
 }
 
 table.Market{
@@ -59,5 +58,5 @@ table.Market{
 body.marketanalysis{
 	background-color:#CCE4E6;
 	font-size:20px;
->>>>>>> origin/master
+
 }
