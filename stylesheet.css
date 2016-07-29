@@ -35,12 +35,13 @@ div.navbar {
 
 div.body {
 	padding: 0px !important;
+	background-color: #ffffff;
 }
 
 div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	;
+	background-color: #ffffff;
 }
 
 div.sidebar {
