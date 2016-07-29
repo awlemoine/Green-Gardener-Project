@@ -43,13 +43,14 @@ div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
 	background-color: #ffffff;
+	height:500px;
 }
 
 div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #ccccff;
-	height: 300px;
+	background-color: #E6FFCC;
+	height: 500px;
 }
 
 div.footer {
