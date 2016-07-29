@@ -27,7 +27,7 @@ div.header {
 
 div.navbar {
 	height: 30px;
-	width:111% !important;
+/*	width:111% !important;*/
 	background-color: #99E64C;
 	color:#ffffff;
 
@@ -36,6 +36,7 @@ div.navbar {
 div.body {
 	padding: 0px !important;
 	background-color: #ffffff;
+	width: 100%;
 }
 
 div.content {
