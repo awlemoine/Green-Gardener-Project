@@ -7,6 +7,13 @@ div {
 	padding: 5px;
 }
 
+body {
+	font-size: 12;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	color:#333000;
+	background-color:#A2CDDB;
+}
+
 div.all {
 	width: 1000px;
 	margin: auto; /*Centers div*/
@@ -14,13 +21,16 @@ div.all {
 }
 
 div.header {
-	height: 200px;
-	background-color: #ffcccc;
+	height: 100px;
+	background-color: #CCE4E6;
+	color: #99E64C;
 }
 
 div.navbar {
 	height: 30px;
 	background-color: #99E64C;
+	color:#ffffff;
+
 }
 
 div.body {
@@ -30,7 +40,7 @@ div.body {
 div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #99ff99;
+	;
 }
 
 div.sidebar {
@@ -48,6 +58,10 @@ div.footer {
 
 p.lightgreen {
 	color:#99E64C;
+}
+
+table.Market{
+	border-style: solid; 
 
 }
 
@@ -57,6 +71,8 @@ table.Market{
 
 body.marketanalysis{
 	background-color:#CCE4E6;
-	font-size:20px;
-
+	font-size:50px;
+	font-color: black;
 }
+
+
