@@ -43,3 +43,16 @@ div.footer {
 	height: 100px;
 	background-color: #ffe6b3;
 }
+
+table.Market{
+	border-style: solid; 
+}
+
+table.Market{
+	background-color: #D6AEB9;
+}
+
+body.marketanalysis{
+	background-color:#CCE4E6;
+	font-size:20px;
+}
