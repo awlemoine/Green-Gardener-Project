@@ -64,21 +64,17 @@ p.lightgreen {
 
 table.Market{
 	border-style: solid; 
-
-}
-
-table.Market{
-	background-color: #D6AEB9;
+	background-color: #ffffff;
 }
 
 body.marketanalysis{
 	background-color:#CCE4E6;
 	font-size:50px;
-	font-color: black;
+	font-color: #0A0A0A;
 }
+
 
 body.FinancialPlan{
 	background-color:#CAE8C1;
 }
-
 
