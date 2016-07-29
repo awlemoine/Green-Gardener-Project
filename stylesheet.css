@@ -54,7 +54,7 @@ div.sidebar {
 }
 
 div.footer {
-	height: 100px;
+	height: 20px;
 	background-color: #ffe6b3;
 	clear:both;
 }
@@ -77,5 +77,6 @@ body.marketanalysis{
 
 a.spacedForNavbar {
 	margin-right: 50px;
+	margin-top:2px;
 	text-decoration: none;
 }
