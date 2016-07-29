@@ -44,6 +44,20 @@ div.footer {
 	background-color: #ffe6b3;
 }
 
+<<<<<<< HEAD
 p.lightgreen {
 	color:#99E64C;
+=======
+table.Market{
+	border-style: solid; 
+}
+
+table.Market{
+	background-color: #D6AEB9;
+}
+
+body.marketanalysis{
+	background-color:#CCE4E6;
+	font-size:20px;
+>>>>>>> origin/master
 }
