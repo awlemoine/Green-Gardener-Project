@@ -11,6 +11,7 @@ body {
 	font-size: 12;
 	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	color:#333000;
+	background-color:#ffffff;
 }
 
 div.all {
@@ -27,8 +28,10 @@ div.header {
 
 div.navbar {
 	height: 30px;
+	width:100% !important;
 	background-color: #99E64C;
 	color:#ffffff;
+
 }
 
 div.body {
@@ -61,6 +64,7 @@ p.lightgreen {
 
 table.Market{
 	border-style: solid; 
+
 }
 
 table.Market{
@@ -69,5 +73,12 @@ table.Market{
 
 body.marketanalysis{
 	background-color:#CCE4E6;
-	font-size:20px;
+	font-size:50px;
+	font-color: black;
 }
+
+body.FinancialPlan{
+	background-color:#CAE8C1;
+}
+
+
